@@ -1,9 +1,9 @@
 {
-  "name": "meteor-package-install-swc",
-  "version": "1.1.1",
+  "name": "@meteorjs/swc-core",
+  "version": "1.1.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zodern/meteor-package-install-swc.git"
+    "url": "https://github.com/meteor/meteor-package-install-swc.git"
   },
   "author": "zodern",
   "license": "MIT",
